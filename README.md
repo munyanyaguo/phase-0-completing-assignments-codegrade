@@ -32,7 +32,7 @@ your assignments and submit them using CodeGrade.
 
 ## Completing and Submitting Assignments
 
-<iframe width="640" height="480" src="https://www.youtube.com/embed/EqIGup3zb8A" title="Completing and Submitting Software Engineering Assignments" frameborder="0" allowfullscreen></iframe>
+<iframe width="640" height="480" src="https://www.youtube.com/embed/EqIGup3zb8A" title="Completing and Submitting Software Engineering Assignments" frameborder="0" allowfullscreen></iframe> 
 
 ### A Quick Note on Organizing Work on Your Machine
 
